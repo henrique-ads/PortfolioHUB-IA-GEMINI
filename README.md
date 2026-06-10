@@ -307,5 +307,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 
 ---
 
-*Projeto desenvolvido como Entrega Final — Implantação PortfolioHUB + IA GEMINI*
-*Entrega: 14/06/2026*
+
+
